@@ -1,0 +1,14 @@
+{
+  "name": "onepix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "sharp": "^0.31.0"
+  }
+}
