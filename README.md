@@ -2,3 +2,5 @@
 npm i sharp
 <br>
 sharp : https://github.com/lovell/sharp
+<br>
+add textures
