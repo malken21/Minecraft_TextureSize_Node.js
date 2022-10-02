@@ -9,5 +9,3 @@ start.batを実行
 <br>
 <br>
 sharp : https://github.com/lovell/sharp
-<br>
-add textures
